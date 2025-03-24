@@ -1,3 +1,2 @@
 # bank_system
-bank system
-Simple course design
+bank system，Simple course design
