@@ -1,3 +1,3 @@
 # bank_system
 bank system
-银行管理
+Simple course design
